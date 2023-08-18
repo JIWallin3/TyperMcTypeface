@@ -24,7 +24,7 @@
     &kp Q &kp W &kp E &kp R &kp T   &kp Y     &kp U     &kp I   &kp O &kp P
     &kp A &kp S &kp D &kp F &kp G   &kp COMMA &kp H     &kp J   &kp K &kp L
     &kp Z &kp X &kp C &kp V &kp B   &kp QUESTION &kp N     &kp M   &kp DOT &kp BSLH
-                &kp LSHFT &kp LWR   &kp SPACE &kp ENTER &kp RSE &kp RSHFT
+                &kp LSHFT &kp LWR   &kp SPACE &kp RET &kp RSE &kp RSHFT
             >;
         };
 
@@ -40,7 +40,7 @@
     &kp ESC   &kp DEL  &kp UP    &kp LBKT   &kp LBRC  &kp N7 &kp N8 &kp N9 &kp PLUS &KP BSPC
     &kp CAPS  &kp LEFT &kp DOWN  &kp RIGHT  &kp SQT   &kp N4 &kp N5 &kp N6 &kp K    &kp EQUAL
     &kp LCTRL &kp LALT &kp UNDER &kp LPAR   &kp LT    &kp N1 &kp N2 &kp N3 &kp STAR &kp FSLH
-                       &kp LGUI &kp LWR &trans    &kp ENTER &kp N0  &kp RSHFT
+                       &kp LGUI &kp LWR &trans    &kp RET &kp N0  &kp RSHFT
             >;
         };
 
